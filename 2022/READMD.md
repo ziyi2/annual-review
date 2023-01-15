@@ -7,7 +7,7 @@
 
 > 温馨提示：如果想要看 2019 年的技能树，可以阅读 [2019 前端年度总结 / 技能](https://juejin.cn/post/6844904038543130632#heading-1)。如果想要查看 2021 年的技能树，可以阅读 [前端杂烩 / 概览](https://juejin.cn/post/7069468539412807693#heading-0)。
 
-![2022 年度总结.png](https://github.com/ziyi2/annual-review/blob/2022/2022/images/2022%20%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93.png)
+![2022 年度总结.png](https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/71d7841f6b4840e7a7b74ea59eae4dbf~tplv-k3u1fbpfcp-watermark.image?)
 
 
 2022 年主要深耕了一个基础方向、一个调试工具方向、两个框架方向：
